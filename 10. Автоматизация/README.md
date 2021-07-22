@@ -16,4 +16,3 @@
 * Как соотносятся темы карточек и темы источников?
 
 Подготовлены [презентация](https://disk.yandex.ru/i/CWBdVflEKPSwcQ) и [дашборд](https://public.tableau.com/views/Dashbord_Slepneva_Anna/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) для целей автоматизации работы менеджеров
-
